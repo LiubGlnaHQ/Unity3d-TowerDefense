@@ -30,6 +30,3 @@ This is a Tower Defense game developed using Unity, inspired by [Siki Academy](h
 ![Main Menu](pictures/MainMenu.png)
 
 
-### Documentation and References 文档和参考资料
-
-并附有笔者自己写的文档，以供参考。
